@@ -9,7 +9,7 @@ bag-option, for an additonal fee.
 Functionality
 
 This program emphasizes object oriented design principles and extendability. More specifically, we can see that the program allows for easy
-customization of flights, aircraft messages sent to the user, and additional optional add-ons. Adding an additional flight only involves
+customization of flights, aircraft messages sent to the user, and additional add-ons. Adding an additional flight only involves
 creating one class, and the information about the flight specifics is the only knowledge that is needed. So, it is easy to create additional
 features that seamlessly flow into the code, without having to know the underlying structure of the program.
 
